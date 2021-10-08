@@ -1,6 +1,6 @@
 ### Hello World, I'm Jefferson 🐱‍💻
 
-# [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-0077B5?style=flat&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/jsilvaalveslima/)](https://www.linkedin.com/in/jsilvaalveslima/) [![Github Badge](https://img.shields.io/badge/-Github-242A2D?style=flat&logo=Github&logoColor=white&link=https://github.com/jeflima/)](https://github.com/jeflima/) [![Medium](https://img.shields.io/badge/-medium-242A2D?style=flat&logo=medium&logoColor=white&link=https://jeflima.medium.com)](https://jeflima.medium.com) [![Instagram](https://img.shields.io/badge/-instagram-D42F8A?style=flat&logo=instagram&logoColor=white&link=https://www.instagram.com/thejeflima)](https://www.instagram.com/thejeflima)
+# [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-0077B5?style=flat&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/jsilvaalveslima/)](https://www.linkedin.com/in/jsilvaalveslima/) [![Github Badge](https://img.shields.io/badge/-Github-242A2D?style=flat&logo=Github&logoColor=white&link=https://github.com/jeflima/)](https://github.com/jeflima/) [![Medium](https://img.shields.io/badge/-medium-242A2D?style=flat&logo=medium&logoColor=white&link=https://jeflima.medium.com)](https://jeflima.medium.com) [![Instagram](https://img.shields.io/badge/-instagram-D42F8A?style=flat&logo=instagram&logoColor=white&link=https://www.instagram.com/thejeflima)](https://www.instagram.com/thejeflima)  <img src="https://komarev.com/ghpvc/?username=jeflima&label=Views" alt="Views">
 
 ### About Me
   
