@@ -1,28 +1,27 @@
+<h2 align="center">Hi, I'm Jefferson Lima</h2>
+<p align="center">A Security Analyst in developing from Brasil!</p>
+
 <p align="center">
- <!-- <img width="100%" src="https://user-images.githubusercontent.com/29931326/87113083-d75cc500-c243-11ea-96d5-4567b121f7d7.png" /> -->
-</p>
-
-### Hi I'm Jefferson Lima <img src="https://user-images.githubusercontent.com/29931326/125177555-2e78db00-e1b3-11eb-9e49-409c4f649cf5.gif" width="30px">
-
-💻 Security Analyst  <img src="https://image.flaticon.com/icons/svg/197/197386.svg" width="13"/> Rio de Janeiro 🌎 Brasil
-
-[![Linkedin Badge](https://img.shields.io/badge/-JeffersonLima-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/jsilvaalveslima)](https://www.linkedin.com/in/jsilvaalveslima)
-[![Gmail Badge](https://img.shields.io/badge/-JeffersonLima-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:jsilvaalveslima@gmail.com)](mailto:jsilvaalveslima@gmail.com)
-[![Instagram Dino Coder Badge](https://img.shields.io/badge/-thejeflima-blue?style=flat-square&logo=Instagram&logoColor=white&link=https://www.instagram.com/thejeflima/?hl=pt-br)](https://www.instagram.com/thejeflima/?hl=pt-br)
-[![Twitter Badge](https://img.shields.io/badge/-hi4tt4ck-1ca0f1?style=flat&labelColor=1ca0f1&logo=twitter&logoColor=white&link=https://twitter.com/hi4tt4ck)](https://twitter.com/usakimodoki)
-![](https://visitor-badge.glitch.me/badge?page_id=jeflima.jeflima)
-
-
----
+    <a href="https://github.com/anuraghazra/github-readme-stats/actions">
+      <img alt="Tests Passing" src="https://github.com/anuraghazra/github-readme-stats/workflows/Test/badge.svg" />
+    </a>
+    <a href="https://codecov.io/gh/anuraghazra/github-readme-stats">
+      <img src="https://codecov.io/gh/anuraghazra/github-readme-stats/branch/master/graph/badge.svg" />
+    </a>
+    <a href="https://github.com/anuraghazra/github-readme-stats/issues">
+      <img alt="Issues" src="https://img.shields.io/github/issues/anuraghazra/github-readme-stats?color=0088ff" />
+    </a>
+    <a href="https://github.com/anuraghazra/github-readme-stats/pulls">
+      <img alt="GitHub pull requests" src="https://img.shields.io/github/issues-pr/anuraghazra/github-readme-stats?color=0088ff" />
+    </a>
+    </p>
 
 💻 I'm currently working on Identity and Access Security<br>
 📚 I'm currently learning more about Ofensive and Defensive Security and Forensics<br>
-💬 Ask me about anything related to IAM, CyberSecurity, Azure or Science (Yes, I'm nerd :nerd_face:)<br>
+💬 Ask me about anything related to ITIL, Security Information, Azure or Science (Yes, I'm nerd :nerd_face:)<br>
 🎓 UnderGraduated in Management Information Technology, Graduate student in Forensics, Ethical Hacking and CyberSecurity<br>
 🎮 I love Games...<br>
 🌌 and Universe :)
-
----
 
 **Languages and Tools:**  
 
@@ -37,9 +36,8 @@
 **My Contributions ⚡**
 <br/>
 <a href="https://github.com/jeflima/github-readme-stats">
-  <img align="left" src="https://github-readme-stats.vercel.app/api?username=jeflima&count_private=true&show_icons=true&theme=onedark" />
+  <img align="left" src="https://github-readme-stats.vercel.app/api?username=jeflima&count_private=true&show_icons=true&theme=dark" />
 </a>
  ![Snake animation](https://github.com/jeflima/jeflima/blob/output/github-contribution-grid-snake.svg)
- 
 <br/>
 
