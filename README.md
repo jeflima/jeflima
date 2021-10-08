@@ -17,10 +17,12 @@
 
 💻 I'm currently working on Identity and Access Security<br>
 📚 I'm currently learning more about Ofensive and Defensive Security and Forensics<br>
-💬 Ask me about anything related to Security, Azure or Science (Yes, I'm nerd :nerd_face:)<br>
+💬 Ask me about anything related to IAM, CyberSecurity, Azure or Science (Yes, I'm nerd :nerd_face:)<br>
 🎓 UnderGraduated in Management Information Technology, Graduate student in Forensics, Ethical Hacking and CyberSecurity<br>
 🎮 I love Games...<br>
 🦖 and dinosaurs :)
+
+🌌 and Universe :)
 
 **Languages and Tools:**  
 
@@ -30,6 +32,13 @@
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/react/react.png"></code>
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/unity/unity.png"></code>
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/nodejs/nodejs.png"></code>
+<br/>
+
+**My Contributions ⚡**
+<br/>
+<a href="https://github.com/jeflima/github-readme-stats">
+  <img align="left" src="https://github-readme-stats.vercel.app/api?username=jeflima&count_private=true&show_icons=true&theme=onedark" />
+</a>
  ![Snake animation](https://github.com/jeflima/jeflima/blob/output/github-contribution-grid-snake.svg)
 <br/>
 
