@@ -1,5 +1,5 @@
 <h2 align="center">Hi, I'm Jefferson Lima</h2>
-<p align="center">A Security Analyst in developing from Brasil!</p>
+<p align="center">A enthusiastic of CyberSecurity and Forensics from Brasil!</p>
 
 <p align="center">
     <a href="https://github.com/anuraghazra/github-readme-stats/actions">
