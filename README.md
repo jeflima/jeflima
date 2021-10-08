@@ -22,10 +22,10 @@
  <!-- About me -->
 <h3>About Me</h3>
   
-💻 I'm currently working on Identity and Access Security at BrasilCenter company from the Claro Brasil group.<br>
+💻 I'm working on Identity and Access Security at BrasilCenter company from the Claro Brasil group.<br>
 📚 I'm currently learning more about Ofensive and Defensive Security, Forensics and your tools.<br>
-💬 Ask me about anything related to CyberSecurity, IAM, Azure or Science (Yes, I'm nerd :nerd_face:)<br>
 🎓 UnderGraduated in Information Technology Management, Graduate student in Forensics, Ethical Hacking and CyberSecurity.<br>
+💬 Ask me about anything related to CyberSecurity, IAM, Azure or Science (Yes, I'm nerd :nerd_face:)<br>
 🎮 I love Games...<br/>
 🌌 and Universe :)
 <div align="left">
