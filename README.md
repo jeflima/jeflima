@@ -4,7 +4,7 @@
 
 ### Hi I'm Jefferson Lima <img src="https://user-images.githubusercontent.com/29931326/125177555-2e78db00-e1b3-11eb-9e49-409c4f649cf5.gif" width="30px">
 
-💻 Fullstack Developer  <img src="https://image.flaticon.com/icons/svg/197/197386.svg" width="13"/> São Paulo 🌎 Brasil
+💻 Security Analyst  <img src="https://image.flaticon.com/icons/svg/197/197386.svg" width="13"/> Rio de Janeiro 🌎 Brasil
 
 [![Linkedin Badge](https://img.shields.io/badge/-JeffersonLima-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/jsilvaalveslima)](https://www.linkedin.com/in/jsilvaalveslima)
 [![Gmail Badge](https://img.shields.io/badge/-JeffersonLima-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:jsilvaalveslima@gmail.com)](mailto:jsilvaalveslima@gmail.com)
