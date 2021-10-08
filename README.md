@@ -6,7 +6,7 @@
   
 💻 I'm currently working on Identity and Access Security<br>
 📚 I'm currently learning more about Ofensive and Defensive Security and Forensics<br>
-💬 Ask me about anything related to CyberSecurity, Azure or Science (Yes, I'm nerd :nerd_face:)<br>
+💬 Ask me about anything related to CyberSecurity, IAM, Azure or Science (Yes, I'm nerd :nerd_face:)<br>
 🎓 UnderGraduated in Information Technology Management, Graduate student in Forensics, Ethical Hacking and CyberSecurity<br>
 🎮 I love Games...<br/>
 🌌 and Universe :)
