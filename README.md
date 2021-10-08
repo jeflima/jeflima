@@ -1,21 +1,11 @@
 <h2 align="center">Hi, I'm Jefferson Lima</h2>
-<p align="center">A enthusiastic of CyberSecurity and Forensics from Brasil!</p>
+<p align="center">A enthusiastic of CyberSecurity and Forensics from Brazil!</p>
 
-<p align="center">
-    <a href="https://github.com/anuraghazra/github-readme-stats/actions">
-      <img alt="Tests Passing" src="https://github.com/anuraghazra/github-readme-stats/workflows/Test/badge.svg" />
-    </a>
-    <a href="https://codecov.io/gh/anuraghazra/github-readme-stats">
-      <img src="https://codecov.io/gh/anuraghazra/github-readme-stats/branch/master/graph/badge.svg" />
-    </a>
-    <a href="https://github.com/anuraghazra/github-readme-stats/issues">
-      <img alt="Issues" src="https://img.shields.io/github/issues/anuraghazra/github-readme-stats?color=0088ff" />
-    </a>
-    <a href="https://github.com/anuraghazra/github-readme-stats/pulls">
-      <img alt="GitHub pull requests" src="https://img.shields.io/github/issues-pr/anuraghazra/github-readme-stats?color=0088ff" />
-    </a>
-    </p>
-
+![profile count](https://komarev.com/ghpvc/?username=jeflima&color=red)&nbsp;
+[![GitHub AbhishekSinghDhadwal](https://img.shields.io/github/followers/jeflima?label=follow&style=social)](https://github.com/jeflima)&nbsp;
+![build: passing](https://img.shields.io/badge/build-passing-success)
+### 👨🏻‍💻 &nbsp;About Me
+  
 💻 I'm currently working on Identity and Access Security<br>
 📚 I'm currently learning more about Ofensive and Defensive Security and Forensics<br>
 💬 Ask me about anything related to ITIL, Security Information, Azure or Science (Yes, I'm nerd :nerd_face:)<br>
