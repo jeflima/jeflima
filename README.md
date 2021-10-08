@@ -15,11 +15,11 @@
 
 ---
 
-💻 I'm currently working on Front End<br>
-📚 I'm currently learning more about TDD, Patterns and SOLID<br>
-💬 Ask me about anything related to Game Development or Front-End Development<br>
-🎮 Graduated in Digital Games<br>
-🐱 I love cats...<br>
+💻 I'm currently working on Identity and Access Security<br>
+📚 I'm currently learning more about Ofensive and Defensive Security and Forensics<br>
+💬 Ask me about anything related to Security, Azure or Science (Yes, I'm nerd :nerd_face:)<br>
+🎓 UnderGraduated in Management Information Technology, Graduate student in Forensics, Ethical Hacking and CyberSecurity<br>
+🎮 I love Games...<br>
 🦖 and dinosaurs :)
 
 **Languages and Tools:**  
@@ -30,6 +30,6 @@
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/react/react.png"></code>
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/unity/unity.png"></code>
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/nodejs/nodejs.png"></code>
-
-<br/>
  ![Snake animation](https://github.com/jeflima/jeflima/blob/output/github-contribution-grid-snake.svg)
+<br/>
+
