@@ -1,9 +1,7 @@
-<h2 align="center">Hi, I'm Jefferson Lima</h2>
-<p align="center">A enthusiastic of CyberSecurity and Forensics from Brazil!</p>
+### Hello World, I'm Jefferson 🐱‍💻
 
-![profile count](https://komarev.com/ghpvc/?username=jeflima&color=red)&nbsp;
-[![GitHub AbhishekSinghDhadwal](https://img.shields.io/github/followers/jeflima?label=follow&style=social)](https://github.com/jeflima)&nbsp;
-![build: passing](https://img.shields.io/badge/build-passing-success)
+# [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-0077B5?style=flat&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/jsilvaalveslima/)](https://www.linkedin.com/in/jsilvaalveslima/) [![Github Badge](https://img.shields.io/badge/-Github-242A2D?style=flat&logo=Github&logoColor=white&link=https://github.com/jeflima/)](https://github.com/jeflima/) [![Medium](https://img.shields.io/badge/-medium-242A2D?style=flat&logo=medium&logoColor=white&link=https://jeflima.medium.com)](https://jeflima.medium.com) [![Instagram](https://img.shields.io/badge/-instagram-D42F8A?style=flat&logo=instagram&logoColor=white&link=https://www.instagram.com/thejeflima)](https://www.instagram.com/thejeflima)
+
 ### 👨🏻‍💻 About Me
   
 💻 I'm currently working on Identity and Access Security<br>
@@ -20,28 +18,10 @@
 <img align="center" alt="GitHub" width="26px" src="https://github.com/darshanr27/darshanr27/blob/master/Assets/github.png" />
 
 <br />
-
-
-  <div align="left">
-  <h3><b>Can Connect With Me On</b></h3>
-  </div>
-<p align="left">
-<a href="https://www.linkedin.com/in/jsilvaalveslima/" target="_blank">
-  <img align="center" alt="Jefferson Lima | Linkedin" width="24px" src="https://github.com/SatYu26/SatYu26/blob/master/Assets/Linkedin.svg" />
-</a> &nbsp;&nbsp;
-<a href="https://twitter.com/hi4tt4ck" target="_blank">
-  <img align="center" alt="Jefferson Lima | Twitter" width="26px" src="https://github.com/SatYu26/SatYu26/blob/master/Assets/Twitter.svg" />
-</a> &nbsp;&nbsp;
-<a href="https://www.instagram.com/thejeflima/" target="_blank">
-  <img align="center" alt="Jefferson Lima | Instagram" width="24px" src="https://github.com/SatYu26/SatYu26/blob/master/Assets/Instagram.svg" />
-</a> &nbsp;&nbsp;
-<a href="mailto:jsilvaalveslima@gmail.com" target="_blank">
-  <img align="center" alt="Jefferson Lima | Gmail" width="26px" src="https://github.com/SatYu26/SatYu26/blob/master/Assets/Gmail.svg" />
-</a> &nbsp;&nbsp;
-  
+ 
   <!--   Stats -->
 ### 📊 GitHub Stats:
-![jeflima github stats](https://github-readme-stats.vercel.app/api?username=jeflima&theme=nord&show_icons=true&count_private=true)
+![jeflima github stats](https://github-readme-stats.vercel.app/api?username=jeflima&theme=nord&show_icons=true&count_private=true&line_height=20&title_color=FFFFFF&icon_color=FFFFFF&text_color=FFFFFF&bg_color=0D1117)
 
  ![Snake animation](https://github.com/jeflima/jeflima/blob/output/github-contribution-grid-snake.svg)
 
