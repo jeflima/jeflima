@@ -20,8 +20,6 @@
 💬 Ask me about anything related to IAM, CyberSecurity, Azure or Science (Yes, I'm nerd :nerd_face:)<br>
 🎓 UnderGraduated in Management Information Technology, Graduate student in Forensics, Ethical Hacking and CyberSecurity<br>
 🎮 I love Games...<br>
-🦖 and dinosaurs :)
-
 🌌 and Universe :)
 
 **Languages and Tools:**  
