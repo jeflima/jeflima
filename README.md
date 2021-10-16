@@ -30,11 +30,20 @@
 🌌 and Universe :)
 <div align="left">
   
+    <!-- Languages and Tools -->
+ <h3><b>Certifications</b></h3>
+<img align="center" alt=" Microsoft Azure (AZ-900)" width="26px" src="https://github.com/jeflima/jeflima/blob/main/assets/azure.png" />
+
+  
+  <!-- Languages and Tools -->
  <h3><b>Languages and Tools</b></h3>
 <img align="center" alt="Python" width="26px" src="https://github.com/jeflima/jeflima/blob/main/assets/python.png" />
 <img align="center" alt="GitHub" width="26px" src="https://github.com/jeflima/jeflima/blob/main/assets/github.png" />
-<img align="center" alt="PowerShell" width="26px" src="https://github.com/jeflima/jeflima/blob/main/assets/powershell.png"/>
-<img align="center" alt="PowerShell" width="26px" src="https://github.com/jeflima/jeflima/blob/main/assets/wireshark.png"/>
+<img align="center" alt="PowerShell" width="26px" src="https://github.com/jeflima/jeflima/blob/main/assets/powershell.png" />
+<img align="center" alt="PowerShell" width="26px" src="https://github.com/jeflima/jeflima/blob/main/assets/wireshark.png" />
+  
+
+  
   <!--  Stats -->
 <h3>GitHub Stats</h3>
 
