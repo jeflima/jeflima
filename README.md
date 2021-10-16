@@ -31,8 +31,10 @@
 <div align="left">
   
  <h3><b>Certifications</b></h3>
-<img align="center" alt=" Microsoft Azure (AZ-900)" width="26px" src="https://github.com/jeflima/jeflima/blob/main/assets/azure.png" />
-
+<img align="center" alt="Microsoft Azure (AZ-900)" width="26px" src="https://github.com/jeflima/jeflima/blob/main/assets/azure.png" />
+<img align="center" alt="EC COuncil (CSCU)" width="26px" src="https://github.com/jeflima/jeflima/blob/main/assets/CSCU.png" />
+<img align="center" alt="EXIN" width="39px" src="https://github.com/jeflima/jeflima/blob/main/assets/EXIN.png" />  
+<img align="center" alt="EXIN" width="39px" src="https://github.com/jeflima/jeflima/blob/main/assets/Onetrust.png" />  
   
   <!-- Languages and Tools -->
  <h3><b>Languages and Tools</b></h3>
