@@ -30,7 +30,6 @@
 🌌 and Universe :)
 <div align="left">
   
-    <!-- Languages and Tools -->
  <h3><b>Certifications</b></h3>
 <img align="center" alt=" Microsoft Azure (AZ-900)" width="26px" src="https://github.com/jeflima/jeflima/blob/main/assets/azure.png" />
 
