@@ -34,14 +34,14 @@
 <img align="center" alt="Microsoft Azure (AZ-900)" width="26px" src="https://github.com/jeflima/jeflima/blob/main/assets/azure.png" />
 <img align="center" alt="EC COuncil (CSCU)" width="26px" src="https://github.com/jeflima/jeflima/blob/main/assets/CSCU.png" />
 <img align="center" alt="EXIN" width="39px" src="https://github.com/jeflima/jeflima/blob/main/assets/EXIN.png" />  
-<img align="center" alt="EXIN" width="39px" src="https://github.com/jeflima/jeflima/blob/main/assets/Onetrust.png" />  
+<img align="center" alt="EXIN" width="26px" src="https://github.com/jeflima/jeflima/blob/main/assets/OT.png" />  
   
   <!-- Languages and Tools -->
  <h3><b>Languages and Tools</b></h3>
 <img align="center" alt="Python" width="26px" src="https://github.com/jeflima/jeflima/blob/main/assets/python.png" />
 <img align="center" alt="GitHub" width="26px" src="https://github.com/jeflima/jeflima/blob/main/assets/github.png" />
 <img align="center" alt="PowerShell" width="26px" src="https://github.com/jeflima/jeflima/blob/main/assets/powershell.png" />
-<img align="center" alt="PowerShell" width="26px" src="https://github.com/jeflima/jeflima/blob/main/assets/wireshark.png" />
+<img align="center" alt="WireShark" width="26px" src="https://github.com/jeflima/jeflima/blob/main/assets/wireshark.png" />
   
 
   
