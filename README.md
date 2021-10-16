@@ -31,9 +31,9 @@
 <div align="left">
   
  <h3><b>Languages and Tools</b></h3>
-<img align="center" alt="Python" width="26px" src="https://github.com/darshanr27/darshanr27/blob/master/Assets/python.png" />
+<img align="center" alt="Python" width="26px" src="https://github.com/jeflima/jeflima/blob/main/assets/python.png" />
 <img align="center" alt="GitHub" width="26px" src="https://github.com/darshanr27/darshanr27/blob/master/Assets/github.png" />
-
+<img align="center" alt="PowerShell" width="26px" src="https://github.com/darshanr27/darshanr27/blob/master/Assets/github.png" />
   <!--  Stats -->
 <h3>GitHub Stats</h3>
 
